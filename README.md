@@ -1,3 +1,27 @@
+Tugas-5-Pemweb
+
+Halaman Awal
+
+![halaman awal](https://user-images.githubusercontent.com/66629669/117012329-0a170300-ad19-11eb-9fe0-53b8e36150bb.png)
+
+Halaman Penambahan data
+
+![Halaman tambah data](https://user-images.githubusercontent.com/66629669/117012353-100ce400-ad19-11eb-9b6a-57ba153f3e96.png)
+
+![Halaman tambah data part 2](https://user-images.githubusercontent.com/66629669/117012409-1bf8a600-ad19-11eb-93da-a80b51398891.png)
+
+Halaman perubahan data
+
+![Halaman perubahan data](https://user-images.githubusercontent.com/66629669/117012418-1e5b0000-ad19-11eb-9a12-0517c9aae39d.png)
+
+![Halaman perubahan data part 2](https://user-images.githubusercontent.com/66629669/117012422-1ef39680-ad19-11eb-862c-812a8e44f8ea.png)
+
+![Halaman perubahan data part 3](https://user-images.githubusercontent.com/66629669/117012425-2024c380-ad19-11eb-80c4-c5f6d87059a7.png)
+
+Halaman penghapusan data
+
+![halaman data dihapus](https://user-images.githubusercontent.com/66629669/117012449-25820e00-ad19-11eb-8236-7d13d94f88a3.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
